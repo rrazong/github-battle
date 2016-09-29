@@ -35,12 +35,6 @@ var ConfirmBattleContainer = React.createClass({
     })
   },
 
-  onResetBattle: function() {
-    this.context.router.push({
-      pathname: '/playerOne'
-    })
-  },
-
   render: function() {
     return (
       <ConfirmBattle

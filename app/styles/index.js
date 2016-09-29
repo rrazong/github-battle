@@ -3,7 +3,7 @@ var styles = {
     background: 'transparent'
   },
   space: {
-    
+    margin: '25px'
   }
 };
 
